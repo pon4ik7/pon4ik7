@@ -1,2 +1,1 @@
-Hello it's a my study repository for lerning Java
-Marko, welcome!
+Hello, I'm a student Innopolis University BS24 - CSE06
