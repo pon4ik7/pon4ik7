@@ -1,5 +1,10 @@
 # 👋 Hi! I'm Rolan Muliukin
 
+## Contacts
+
+- **Email:** muliukinrolan@mail.ru
+- **Telegram:** [@poon4ik7](https://t.me/vizitkaAboutMe)
+
 ## About Me
 
 - Student of **Computer Science and Engineering** at Innopolis University (BS24 - CSE06).
@@ -62,8 +67,3 @@
 - **Algorithmic Practice:** Java, C++
   - Regular participant on Leetcode, Codeforces, AtCoder.
   - Specialization: Graphs, Dynamic Programming, Greedy Algorithms.
-
-## Contacts
-
-- **Email:** muliukinrolan@mail.ru
-- **Telegram:** [@poon4ik7](https://t.me/vizitkaAboutMe)
