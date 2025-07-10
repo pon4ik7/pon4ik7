@@ -12,6 +12,6 @@
 ## Contacts
 
 - Email: muliukinrolan@mail.ru
-- Telegram: @poon4ik7
+- Telegram: [@poon4ik7](https://t.me/vizitkaAboutMe)
 
 
