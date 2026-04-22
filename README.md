@@ -12,7 +12,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pon4ik7&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon4ik7&layout=compact&hide_border=true&hide=Jupyter%20Notebook" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon4ik7&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Dart,TypeScript,JavaScript,HTML,CSS,SCSS,Less,Vue,TeX" alt="Top languages">
 </p>
 
 ## About Me
@@ -22,6 +22,16 @@
 - Team-oriented engineer with practical experience in educational and project products.
 - Fast learner who enjoys system thinking, clear architecture, and shipping useful features.
 - Open to internship and junior backend opportunities.
+
+## Olympiads and Achievements
+
+**Selected achievements**
+
+- **ICPC Southern and Volga Russia Regional Contest Qualification Stage** - III degree diploma ([certificate](https://disk.yandex.ru/i/22P34rYZPhVH5w))
+- **Rosatom Industry Physics and Mathematics Olympiad (RSOS Level 1)** - Prize winner, III degree diploma (Physics) ([certificate](https://disk.yandex.ru/i/oA3gZdcOsf_AUA))
+- **Engineering School Olympiad (RSOS Level 2)** - Prize winner, II degree diploma (Physics) ([certificate](https://disk.yandex.ru/i/B8-YWqR3q-Q9AA))
+- **Step into the Future School Olympiad (RSOS Level 2)** - Prize winner, II degree diploma (Physics) ([certificate](https://disk.yandex.ru/i/I1m8lKZzLe-Hvg))
+- **All-Russian School Olympiad in Economics** - Regional stage prize winner
 
 ## Experience
 
@@ -78,14 +88,14 @@ Personal backend-focused messenger project built from scratch.
 - **GPA:** 4.86 / 5.0
 - **Additional course:** C# Programming (Unity), 147 academic hours
 
-## Olympiads and Achievements
+## Additional Education and Practice
 
-- ICPC Southern and Volga Russia Regional Contest Qualification Stage - III degree diploma
-- Rosatom Industry Physics and Mathematics Olympiad (RSOS Level 1) - Prize winner, III degree diploma (Physics)
-- Engineering School Olympiad (RSOS Level 2) - Prize winner, II degree diploma (Physics)
-- Step into the Future School Olympiad (RSOS Level 2) - Prize winner, II degree diploma (Physics)
-- All-Russian School Olympiad in Economics - Regional stage prize winner
+- Algorithmic practice in Go, Java, and C++
+- Regular problem solving on LeetCode and Codeforces
+- Focus areas: graphs, dynamic programming, and greedy algorithms
 
-## More Details
+## Soft Skills
 
-- Extended skills and notes: [SKILLS.md](./SKILLS.md)
+- Fast learner
+- Responsible with deadlines and delivery
+- Comfortable in teamwork and open to feedback
